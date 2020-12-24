@@ -1,0 +1,44 @@
+# Программирование на языке высокого уровня (Python).
+# Задание task_03_02_01.
+#
+# Выполнил: Glushkov.
+# Группа: АДЭУ-201
+
+
+
+a = int(input("a="))
+b = int(input("b="))
+
+print(a + b)
+print(a - b)
+print(a * b)
+print(round(a / b, 2))
+print(a // b)
+print(a % b)
+print(a ** b)
+print(a < b)
+print(a <= b)
+print(a > b)
+print(a >= b)
+print(a != b)
+print(a == b)
+
+
+
+# Пример вывода:
+#
+# a=2
+# b=3
+# 5
+# -1
+# 6
+# 0.67
+# 0
+# 2
+# 8
+# True
+# True
+# False
+# False
+# True
+# False
