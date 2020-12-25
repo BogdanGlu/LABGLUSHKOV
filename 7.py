@@ -1,7 +1,5 @@
 # Программирование на языке высокого уровня (Python).
-# https://www.yuripetrov.ru/edu/python
 # Задание task_03_02_04.
-#
 # Выполнил: Glushkov
 # Группа: АДЭУ-201
 
